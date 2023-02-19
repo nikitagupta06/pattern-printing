@@ -11,7 +11,7 @@
     *
  */
 
- class Solution {
+class Solution {
 
     void printDiamond(int n) {
         for (int i = 0; i < n; i++) {
